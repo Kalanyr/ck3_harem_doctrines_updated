@@ -1,0 +1,9 @@
+﻿l_russian:
+  tradition_harem_name:0 "Управляемый гарем"
+  tradition_harem_desc:0 "В этой культуре принято иметь несколько наложниц, организованных несколькими супругами, независимо от веры."
+
+  Culture_parameter_allows_concubinage:0 ""
+  Culture_parameter_allows_polygamy:0 ""
+
+  Culture_tradition_events.0100.tradition_polygamous_needs_concubines:0 ""Ваша практика полигамии сама по себе не поддерживается доктриной [faith_scope.GetAdjective], только добавление сожительства [faith_scope.HighGodName] улыбнется вашему народу!! Я желаю только твоего спасения. Пожалуйста, веди свой народ к свету и бери наложниц!» — говорится в послании.
+  Culture_tradition_events.0100.tradition_concubines_needs_polygamy:0 ""Ваша практика сожительства не поддерживается доктриной [faith_scope.GetAdjective], только добавление полигамного брака [faith_scope.HighGodName] улыбнется вашему народу! Я желаю только твоего спасения. Долг каждого хорошего [faith_scope.GetAdjectiveNoTooltip] не может быть выполнен только с одним супругом», — говорится в послании.

@@ -1,0 +1,46 @@
+﻿l_russian:
+  test_culture_marriage_tradition_removal_decision:0 "Удалить тест культурных брачных традиций"
+  test_culture_marriage_tradition_removal_decision_tooltip:0 "Событие по удалению культурных традиций огня"
+  test_culture_marriage_tradition_removal_decision_desc:0 "Запускает события культурных традиций 99 в рамках культуры персонажа для тестирования"
+  test_culture_marriage_tradition_removal_effect_tooltip:0 "Зажигает событие культурной традиции 99"
+  test_culture_marriage_tradition_removal_decision_confirm:0 "Я хочу, чтобы меня преследовали!"
+ 
+  test_culture_marriage_tradition_monogamous_decision:0 "Дать традицию моногамного культурного брака"
+  test_culture_marriage_tradition_monogamous_decision_tooltip:0 "Добавить моногамную культурную брачную традицию"
+  test_culture_marriage_tradition_monogamous_decision_desc:0 "Дайте традицию моногамного культурного брака"
+  test_culture_marriage_tradition_monogamous_decision_confirm:0 "Я хочу быть моногамным!"
+
+  test_culture_marriage_tradition_polygamous_decision:0 "Добавить традицию полигамного культурного брака"
+  test_culture_marriage_tradition_polygamous_decision_tooltip:0 "Добавить традицию полигамного культурного брака"
+  test_culture_marriage_tradition_polygamous_decision_desc:0 "Дать традицию полигамного культурного брака"
+  test_culture_marriage_tradition_polygamous_decision_confirm:0 "Я хочу быть полигамным!"
+
+  test_culture_marriage_tradition_concubines_decision:0 "Дать наложницам культурную брачную традицию"
+  test_cultural_marriage_tradition_concubines_decision_tooltip:0 "Дать наложницам культурную брачную традицию"
+  test_culture_marriage_tradition_concubines_decision_desc:0 "Дать наложницам культурную брачную традицию"
+  test_culture_marriage_tradition_concubines_decision_confirm:0 "Я хочу иметь наложниц!"
+
+  test_culture_marriage_tradition_harem_decision:0 "Включить культурную брачную традицию управляемого гарема"
+  test_culture_marriage_tradition_harem_decision_tooltip:0 "Добавить культурную брачную традицию управляемого гарема"
+  test_culture_marriage_tradition_harem_decision_desc:0 "Дать управляемому гарему культурную брачную традицию"
+  test_culture_marriage_tradition_harem_decision_confirm:0 "Я хочу иметь гарем!"
+
+  test_culture_marriage_tradition_hof_monogamous_decision:0 "Дать традицию моногамного брака HoF"
+  test_culture_marriage_tradition_hof_monogamous_decision_tooltip:0 "Передать традицию моногамных культурных браков главе культуры веры"
+  test_culture_marriage_tradition_hof_monogamous_decision_desc:0 "Передать традицию моногамных культурных браков главе культуры веры"
+  test_culture_marriage_tradition_hof_monogamous_decision_confirm:0 "Я хочу, чтобы мой HoF был моногамным!"
+
+  test_culture_marriage_tradition_hof_polygamous_decision:0 "Дать традицию полигамного культурного брака HoF"
+  test_culture_marriage_tradition_hof_polygamous_decision_tooltip:0 "Передать традицию полигамных культурных браков главе религиозной культуры"
+  test_culture_marriage_tradition_hof_polygamous_decision_desc:0 "Передать традицию полигамных культурных браков главе религиозной культуры"
+  test_culture_marriage_tradition_hof_polygamous_decision_confirm:0 "Я хочу, чтобы мой HoF был полигамным!"
+
+  test_culture_marriage_tradition_hof_concubines_decision:0 "Дать наложницам HoF культурную брачную традицию"
+  test_culture_marriage_tradition_hof_concubines_decision_tooltip:0 "Передать культурную брачную традицию наложниц главе религиозной культуры"
+  test_culture_marriage_tradition_hof_concubines_decision_desc:0 "Передать культурную брачную традицию наложниц главе религиозной культуры"
+  test_culture_marriage_tradition_hof_concubines_decision_confirm:0 "Я хочу, чтобы в моем HoF были наложницы!"
+
+  test_culture_marriage_tradition_hof_harem_decision:0 "Дать традицию культурного брака в управляемом гареме HoF"
+  test_cultural_marriage_tradition_hof_harem_decision_tooltip:0 "Передать традицию культурного брака управляемого гарема главе культуры веры"
+  test_culture_marriage_tradition_hof_harem_decision_desc:0 "Передать культурную брачную традицию управляемого гарема главе религиозной культуры"
+  test_culture_marriage_tradition_hof_harem_decision_confirm:0 "Я хочу, чтобы в моем фестивале был гарем!"
