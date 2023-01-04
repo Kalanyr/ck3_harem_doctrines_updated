@@ -26,12 +26,12 @@ A fix from <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=23457
 
 - Anyone who wishes to is free to reuse my code to handle mixed spouses/concubines or having multiple doctrines / traditions that allow for different numbers of spouses /concubines.
 
-Updates - 
+Acknowledgements: 
 - Russian Translation by <a href="https://steamcommunity.com/id/yola_jess">**YoBa**</a>
-- Russian Translation updated
 
-Uploads for Steam Workshop can be found at
+
+Uploads for Steam Workshop can be found at:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2873545950
 
-Uploads for Paradox Plaza can be found at
+Uploads for Paradox Plaza can be found at:
 https://mods.paradoxplaza.com/mods/51143/Any
