@@ -1,4 +1,4 @@
-# Harem Doctrines For CK3 / Crusader Kings III version 1.7.*+ aka khd aka ck3_harem_doctrines_updated
+# Harem Doctrines For CK3 / Crusader Kings III version 1.6.*+ aka khd aka ck3_harem_doctrines_updated
 This mod updates <a href="https://steamcommunity.com/workshop/filedetails/?id=2221765598" target="_blank">**Harem Doctrines**</a> to work with 1.7.*+
 
 It allows you to select Doctrines allowing more Spouses / Concubines than vanilla, and introduces a Managed Harem doctrine that allows for both secondary spouses and concubines. 
