@@ -1,6 +1,6 @@
 # Harem Doctrines For CK3 / Crusader Kings III version 1.7.*+ aka khd aka ck3_harem_doctrines_updated
 
-<b><i> This mod has been deprecated in favor of and won't be updated. So this GitHub is only for historical interest. </i></b>
+<b><i> This mod has been deprecated in favor of <a href="https://github.com/Kalanyr/ck3_extended_marriage_doctrines" target="_blank">**Extended Marriage Doctrines**</a> and won't be updated. So this GitHub is only for historical interest. </i></b>
 
 This mod updates <a href="https://steamcommunity.com/workshop/filedetails/?id=2221765598" target="_blank">**Harem Doctrines**</a> to work with 1.7.*+
 
